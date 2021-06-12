@@ -391,7 +391,8 @@ The total number of results will be returned as the `x-total-results` header.
   - `asset` or `assetcommitment`
   - `pegout` (available for peg-out outputs, `null` otherwise)
     - `genesis_hash`
-    - `scriptpubkey`
+    
+ - `scriptpubkey`
     - `scriptpubkey_asm`
     - `scriptpubkey_address`
 - `status`
